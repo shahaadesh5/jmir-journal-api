@@ -17,7 +17,7 @@ To test out the API:
 
 API response:
 
-`{
+```{
     "success": true,
     "data": [
         {
@@ -130,4 +130,4 @@ API response:
             ]
         }
     ]
-}`
+}```
